@@ -15,7 +15,7 @@
 <p align="left">
   🔹 <strong>Backend:</strong> Java · Programação Orientada a Objetos · APIs RESTful · Integração com Bases de Dados<br>
   🔹 <strong>Frontend:</strong> HTML · CSS · JavaScript · Angular (em aprendizagem) · React · NextJs<br>
-  🔹 <strong>DevOps & Cloud:</strong> CI/CD · Containerização (Docker) · Infrastructure as Code (Ansible / Terraform)<br>
+  🔹 <strong>DevOps & Cloud:</strong> CI/CD <br>
   🔹 <strong>Metodologia:</strong> Scrum · Agile · Desenvolvimento colaborativo<br>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,angular,react,nextjs,postgres,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,tailwind,js,angular,react,nextjs,ts,postgres,git,vscode" />
   </a>
 </p>
 
