@@ -14,7 +14,7 @@
 
 <p align="left">
   🔹 <strong>Backend:</strong> Java · Programação Orientada a Objetos · APIs RESTful · Integração com Bases de Dados<br>
-  🔹 <strong>Frontend:</strong> HTML · CSS · JavaScript · Angular (em aprendizagem)<br>
+  🔹 <strong>Frontend:</strong> HTML · CSS · JavaScript · Angular (em aprendizagem) · React · NextJs<br>
   🔹 <strong>DevOps & Cloud:</strong> CI/CD · Containerização (Docker) · Infrastructure as Code (Ansible / Terraform)<br>
   🔹 <strong>Metodologia:</strong> Scrum · Agile · Desenvolvimento colaborativo<br>
 </p>
